@@ -9,7 +9,7 @@ All screen and navigation is written by me. Modals for date changing and deletin
 ## App idea:
 - Track down all of your subscription
 - Not only credit card, but BLIK too
-- Delete, add time and cash limits
+- Delete subscriptions, add time and cash limits to every subscription and card bounding freely as you want
 - Never loose your money again
 
 ## Technologies
