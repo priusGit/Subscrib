@@ -1,4 +1,4 @@
-# Dillinger
+# Subscrib
 ## _HACK4LEM, FINALISTS, TOP5_
 Original, Gitlab repo can be found here:  [I'm the link to gitlab repo](https://gitlab.com/solvro-hack/mobile).
 Hackathlon app written in 24hrs by 2 man team, using a hand of our designer.
