@@ -1,9 +1,12 @@
 # Subscrib
 ## _HACK4LEM, FINALISTS, TOP5_
 Original, Gitlab repo can be found here:  [I'm the link to gitlab repo](https://gitlab.com/solvro-hack/mobile).
+
 Hackathlon app written in 24hrs by 2 man team, using a hand of our designer.
+
 All screen and navigation is written by me. Modals for date changing and deleting, and also bottom navigation bar styling is written by [szusterm](https://gitlab.com/szusterm).
-App idea:
+
+## App idea:
 - Track down all of your subscription
 - Not only credit card, but BLIK too
 - Delete, add time and cash limits
